@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HackerNet</string>
+    <string name="title_activity_main">HackerNet</string>
+    <string name="package_name">com.shohammallick.hackernet</string>
+    <string name="custom_url_scheme">com.shohammallick.hackernet</string>
+</resources>
