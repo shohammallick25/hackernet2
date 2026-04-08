@@ -1,16 +1,99 @@
-# React + Vite
+# HackerNet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**HackerNet** is a minimal yet powerful template to get started with **React** in **Vite** along with **Capacitor** for building cross-platform web and mobile applications. This project comes with HMR (Hot Module Replacement) and basic ESLint configurations to ensure smooth development and code quality.
 
-Currently, two official plugins are available:
+## 🔹 Live Demo
+[Hackernet2 Live](https://hackernet2.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- **Frontend:** React 18
+- **Bundler:** Vite
+- **Mobile Support:** Capacitor
+- **Linting:** ESLint (JavaScript)
+- **Styling:** CSS (vanilla)
 
-## React Compiler
+## ⚡ Features
+- Minimal setup for React + Vite projects.
+- Hot Module Replacement (HMR) for faster development.
+- ESLint integrated for code quality.
+- Ready for cross-platform deployment with Capacitor.
+- Easy expansion to TypeScript and advanced lint rules.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Project Structure
+```
 
-## Expanding the ESLint configuration
+hackernet2/
+│
+├─ public/                # Public assets like index.html
+├─ src/                   # React source code
+├─ .gitignore
+├─ capacitor.config.json   # Capacitor configuration
+├─ package.json            # Project dependencies and scripts
+├─ vite.config.js          # Vite configuration
+└─ README.md               # Project documentation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+````
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+- Capacitor CLI (for mobile builds)
+
+### Installation
+```bash
+git clone https://github.com/shohammallick25/hackernet2.git
+cd hackernet2
+npm install
+````
+
+### Running Locally
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view the app in the browser.
+
+### Building for Production
+
+```bash
+npm run build
+```
+
+### Running on Mobile Device (Capacitor)
+
+```bash
+npx cap add android
+npx cap open android
+```
+
+Then run the app from Android Studio.
+
+## 📝 ESLint
+
+This template comes with a basic ESLint configuration. For production apps, it’s recommended to integrate **TypeScript** and enable type-aware lint rules.
+
+## 📖 Learn More
+
+* [Vite Documentation](https://vitejs.dev/)
+* [React Documentation](https://reactjs.org/)
+* [Capacitor Documentation](https://capacitorjs.com/docs)
+
+## 👤 Author
+
+**Shoham Mallick** – [GitHub Profile](https://github.com/shohammallick25)
+
+## 📄 License
+
+This project is open-sourced under the MIT License.
+
+```
+
+---
+
+If you want, I can also **enhance it with a “Project Screenshot / Demo GIF” section** and **detailed Capacitor Android/iOS setup instructions**, so it looks very professional for GitHub.  
+
+Do you want me to do that?
+```
