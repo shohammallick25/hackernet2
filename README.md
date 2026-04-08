@@ -3,7 +3,7 @@
 **HackerNet** is a minimal yet powerful template to get started with **React** in **Vite** along with **Capacitor** for building cross-platform web and mobile applications. This project comes with HMR (Hot Module Replacement) and basic ESLint configurations to ensure smooth development and code quality.
 
 ## 🔹 Live Demo
-[Hackernet2 Live](https://hackernet2.vercel.app/)
+[Hackernet2 Live](https://hackernet-nu.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React 18
