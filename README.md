@@ -5,6 +5,11 @@
 ## 🔹 Live Demo
 [Hackernet2 Live](https://hackernet-nu.vercel.app/)
 
+<img width="1163" height="701" alt="image" src="https://github.com/user-attachments/assets/796352fa-424f-445e-b3b1-136beda5d8cd" />
+
+<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/b7d10c9f-2962-4d42-aab7-15e3146a1e77" />
+
+
 ## 🛠️ Tech Stack
 - **Frontend:** React 18
 - **Bundler:** Vite
